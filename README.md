@@ -132,7 +132,20 @@ Here are some screenshots from the project:
 
 ## List Page
 ![List Page](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list1.png)
+## HTTP Status Code Images
 
+| Status Code | Image |
+|-------------|-------|
+| 100 Continue | ![100 Continue](https://http.dog/100.jpg) |
+| 101 Switching Protocols | ![101 Switching Protocols](https://http.dog/101.jpg) |
+| 102 Processing | ![102 Processing](https://http.dog/102.jpg) |
+| 103 Early Hints | ![103 Early Hints](https://http.dog/103.jpg) |
+| 200 OK | ![200 OK](https://http.dog/200.jpg) |
+| 201 Created | ![201 Created](https://http.dog/201.jpg) |
+| 202 Accepted | ![202 Accepted](https://http.dog/202.jpg) |
+| 203 Non-Authoritative Information | ![203 Non-Authoritative Information](https://http.dog/203.jpg) |
+| 204 No Content | ![204 No Content](https://http.dog/204.jpg) |
+| 205 Reset Content | ![205 Reset Content](https://http.dog/205.jpg) |
 
 
 
