@@ -38,7 +38,7 @@ My_Http_List/
 
 | Login Page | Search Page |
 |------------|-------------|
-| ![Login Page](projectimages/login.png) | ![Search Page](projectimages/search.png) |
+| ![Login Page](projectimages/login.png) | ![Search Page](projectimages/signup.png) |
 
 ---
 
