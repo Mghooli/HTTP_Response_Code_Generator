@@ -36,7 +36,7 @@ My_Http_List/
 
 ## 📸 Screenshots
 
-| Login Page | Search Page |
+| Login Page | SignUp Page |
 |------------|-------------|
 | ![Login Page](projectimages/login.png) | ![Search Page](projectimages/signup.png) |
 
