@@ -120,15 +120,15 @@ Here are some screenshots from the project:
 
 | List 1 | List 2 |
 |--------|--------|
-| ![List 1](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list1.png) | ![List 2](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list2.png) |
+| ![List 1](projectimages/list1.png) | ![List 2](projectimages/list2.png) |
 
 | List 3 | List 4 |
 |--------|--------|
-| ![List 3](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list3.png) | ![List 4](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list4.png) |
+| ![List 3](projectimages/list3.png) | ![List 4](projectimages/list4.png) |
 
 | List 5 | List 6 |
 |--------|--------|
-| ![List 5](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list5.png) | ![List 6](https://github.com/Mghooli/HTTP_Response_Code_Generator/raw/main/projectimages/list6.png) |
+| ![List 5](projectimages/list5.png) | ![List 6](projectimages/list6.png) |
 
 
 
