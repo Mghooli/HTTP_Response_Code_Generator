@@ -114,11 +114,4 @@ Do you want me to add that push step next?
 ## 🖼 Screenshots
 Here are some screenshots from the project:
 
-![Screenshot 1](projectimages/Screenshot%202025-08-09%20005404.png)  
-![Screenshot 2](projectimages/Screenshot%202025-08-09%20005417.png)  
-![Screenshot 3](projectimages/Screenshot%202025-08-09%20005457.png)  
-![Screenshot 4](projectimages/Screenshot%202025-08-09%20005530.png)  
-![Screenshot 5](projectimages/Screenshot%202025-08-09%20005556.png)  
-![Screenshot 6](projectimages/Screenshot%202025-08-09%20005608.png)  
-![Screenshot 7](projectimages/Screenshot%202025-08-09%20005634.png)  
-![Screenshot 8](projectimages/Screenshot%202025-08-09%20005658.png) 
+
