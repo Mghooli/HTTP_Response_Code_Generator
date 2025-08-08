@@ -40,7 +40,21 @@ My_Http_List/
 |------------|-------------|
 | ![Login Page](projectimages/login.png) | ![Search Page](projectimages/signup.png) |
 
----
+
+
+## Project Gallery
+| List Page 1 | List Page 2 |
+|-------------|-------------|
+| ![List Page 1](projectimages/list1.png) | ![List Page 2](projectimages/list2.png) |
+
+| List Page 3 | List Page 4 |
+|-------------|-------------|
+| ![List Page 3](projectimages/list3.png) | ![List Page 4](projectimages/list4.png) |
+
+| List Page 5 | List Page 6 |
+|-------------|-------------|
+| ![List Page 5](projectimages/list5.png) | ![List Page 6](projectimages/list6.png) |
+
 
 ## ⚙️ Installation & Running the Project
 
@@ -107,31 +121,6 @@ yaml
 Copy
 Edit
 
----
-
----
-
-## 🖼 Screenshots
-Here are some screenshots from the project:
-
----
-
-## 📸 Feature Screenshots
-
-| List 1 | List 2 |
-|--------|--------|
-| ![Login Page](https://github.com/Mghooli/HTTP_Response_Code_Generator/blob/main/projectimages/login.png) | ![List 2](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list2.png) |
-
-| List 3 | List 4 |
-|--------|--------|
-| ![List 3](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list3.png) | ![List 4](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list4.png) |
-
-| List 5 | List 6 |
-|--------|--------|
-| ![List 5](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list5.png) | ![List 6](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list6.png) |
-
-## List Page
-![List Page](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list1.png)
 
 
 
