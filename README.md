@@ -120,7 +120,7 @@ Here are some screenshots from the project:
 
 | List 1 | List 2 |
 |--------|--------|
-| ![Login Page](projectimages/list1.png) | ![List 2](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list2.png) |
+| ![Login Page](https://github.com/Mghooli/HTTP_Response_Code_Generator/blob/main/projectimages/login.png) | ![List 2](https://raw.githubusercontent.com/Mghooli/HTTP_Response_Code_Generator/main/projectimages/list2.png) |
 
 | List 3 | List 4 |
 |--------|--------|
