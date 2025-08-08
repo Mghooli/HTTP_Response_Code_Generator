@@ -113,5 +113,19 @@ If you want, I can **also add Git commands** for pushing your `projectimages` fo
 Do you want me to add that push step next?
 ## 🖼 Screenshots
 Here are some screenshots from the project:
+## 📸 Feature Screenshots
+
+| List 1 | List 2 |
+|--------|--------|
+| ![List 1](projectimages/list1.png) | ![List 2](projectimages/list2.png) |
+
+| List 3 | List 4 |
+|--------|--------|
+| ![List 3](projectimages/list3.png) | ![List 4](projectimages/list4.png) |
+
+| List 5 | List 6 |
+|--------|--------|
+| ![List 5](projectimages/list5.png) | ![List 6](projectimages/list6.png) |
+
 
 
