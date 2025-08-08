@@ -109,10 +109,11 @@ Edit
 
 ---
 
-If you want, I can **also add Git commands** for pushing your `projectimages` folder to your old repo so the screenshots in README will show up directly on GitHub.  
-Do you want me to add that push step next?
+---
+
 ## 🖼 Screenshots
 Here are some screenshots from the project:
+
 ## 📸 Feature Screenshots
 
 | List 1 | List 2 |
